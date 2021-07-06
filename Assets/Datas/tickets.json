@@ -1,0 +1,19 @@
+{
+    "tickets": [
+        {
+            "userId": "Kis Jozsi",
+            "filmId": 11,
+            "count": 2
+        },
+        {
+            "userId": "Administrator",
+            "filmId": 10,
+            "count": 1
+        },
+        {
+            "userId": "Administrator",
+            "filmId": 12,
+            "count": 5
+        }
+    ]
+}

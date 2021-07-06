@@ -1,0 +1,172 @@
+{
+    "films": [
+        {
+            "id": 0,
+            "date": "2021-05-30",
+            "time": "14:30",
+            "name": "Szilv\u00e1sbukt\u00e1t mert azt szeretem!",
+            "room": "3. terem",
+            "maxSeat": 25,
+            "freeSeats": 25,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 1,
+            "date": "2021-05-30",
+            "time": "15:00",
+            "name": "Hal\u00e1los iramban 11",
+            "room": "1. terem",
+            "maxSeat": 25,
+            "freeSeats": 10,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "date": "2021-05-30",
+            "time": "15:30",
+            "name": "A vak asszony visszan\u00e9z 3.",
+            "room": "2. terem",
+            "maxSeat": 25,
+            "freeSeats": 0,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 3,
+            "date": "2021-05-31",
+            "time": "12:30",
+            "name": "Hal\u00e1los iramban 11",
+            "room": "1. terem",
+            "maxSeat": 25,
+            "freeSeats": 25,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 4,
+            "date": "2021-05-31",
+            "time": "12:30",
+            "name": "Szilv\u00e1sbukt\u00e1t mert azt szeretem!",
+            "room": "4. terem",
+            "maxSeat": 25,
+            "freeSeats": 3,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 5,
+            "date": "2021-05-31",
+            "time": "20:45",
+            "name": "Szilv\u00e1sbukt\u00e1t mert azt szeretem!",
+            "room": "2. terem",
+            "maxSeat": 25,
+            "freeSeats": 25,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 6,
+            "date": "2021-05-31",
+            "time": "23:45",
+            "name": "Szilv\u00e1sbukt\u00e1t mert azt szeretem!",
+            "room": "2. terem",
+            "maxSeat": 25,
+            "freeSeats": 25,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 7,
+            "date": "2021-06-01",
+            "time": "23:45",
+            "name": "Szilv\u00e1sbukt\u00e1t mert azt szeretem!",
+            "room": "2. terem",
+            "maxSeat": 25,
+            "freeSeats": 10,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 8,
+            "date": "2021-06-02",
+            "time": "12:45",
+            "name": "Szilv\u00e1sbukt\u00e1t mert azt szeretem!",
+            "room": "2. terem",
+            "maxSeat": 25,
+            "freeSeats": 12,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 9,
+            "date": "2021-06-02",
+            "time": "14:45",
+            "name": "Hal\u00e1los iramban 11",
+            "room": "1. terem",
+            "maxSeat": 25,
+            "freeSeats": 0,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 10,
+            "date": "2021-06-03",
+            "time": "22:45",
+            "name": "Maga fel\u00e9 d\u0151l a fa!",
+            "room": "3. terem",
+            "maxSeat": 25,
+            "freeSeats": 1,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 11,
+            "date": "2021-06-07",
+            "time": "20:45",
+            "name": "Vakas\u00e1bl\u00e1s",
+            "room": "1. terem",
+            "maxSeat": 25,
+            "freeSeats": 3,
+            "description": null,
+            "optionalLink": null,
+            "price": 2000
+        },
+        {
+            "id": 12,
+            "date": "2021-06-05",
+            "time": "05:43",
+            "name": "A kerekerd\u0151 mes\u00e9i",
+            "room": "4. terem",
+            "maxSeat": "35",
+            "freeSeats": 30,
+            "description": "A kerekerd\u0151 mes\u00e9iben az a sz\u00e9p, hogy nem kerek",
+            "optionalLink": "",
+            "price": "500"
+        },
+        {
+            "id": 13,
+            "date": "2021-06-06",
+            "time": "21:56",
+            "name": "Vuk",
+            "room": "3. terem",
+            "maxSeat": "15",
+            "freeSeats": "15",
+            "description": "",
+            "optionalLink": "",
+            "price": "150"
+        }
+    ]
+}

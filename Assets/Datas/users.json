@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "username": "Kis Jozsi",
+            "email": "kisjozsi@inf.elte.hu",
+            "phone": "486480364",
+            "password": "a8f5f167f44f4964e6c998dee827110c",
+            "isAdmin": false
+        },
+        {
+            "username": "Administrator",
+            "email": "admin@mozi.hu",
+            "phone": "744646413",
+            "password": "21232f297a57a5a743894a0e4a801fc3",
+            "isAdmin": true
+        }
+    ]
+}
